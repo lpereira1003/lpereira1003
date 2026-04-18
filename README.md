@@ -49,7 +49,7 @@ Asistente inteligente diseñado para resolver consultas sobre procesos de factur
 
 * **Bootcamp Fullstack en Kodigo:** Modernizando el stack hacia tecnologías web reactivas y flujos asíncronos.
 * **Formador Técnico:** Docente en el **Instituto Nacional de Osicala**, compartiendo lógica de negocios y resolución de problemas reales con nuevos talentos.
-* **Evolución con Propósito:** Mi camino inició con herramientas de escritorio clásicas, lo que me dio una comprensión profunda de la estructura de datos que hoy aplico en entornos web.
+* **Evolución con Propósito:** Mi camino inició con herramientas de escritorio clásicas, lo que me dio una comprensión de la estructura de datos que hoy aplico en otros entornos.
 
 ---
 
