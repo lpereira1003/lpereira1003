@@ -28,6 +28,21 @@ He desarrollado e implementado soluciones en sectores donde la precisión es inn
 * **Servicios Comunitarios:** Digitalización de procesos de cobro y gestión de carteras para sistemas de agua potable.
 
 ---
+## 🤖 Automatización e Inteligencia Artificial
+
+He implementado soluciones basadas en IA para mejorar la interacción con clientes y optimizar procesos de atención:
+
+### 🧾 Agente IA de Facturación Electrónica
+
+Asistente inteligente diseñado para resolver consultas sobre procesos de facturación electrónica, uso del sistema y soporte técnico básico.
+
+✔ Respuestas automatizadas 24/7  
+✔ Orientación a clientes sobre DTE  
+✔ Reducción de carga operativa en soporte  
+
+🚀 **Accede al asistente aquí:**  
+[![Probar Asistente PCS](https://img.shields.io/badge/Probar%20Asistente-1877F2?style=for-the-badge&logo=chatbot&logoColor=white)](https://chatgpt.com/g/g-6994e4e9e23881919331c68e5904951e-pcs-asistente-sistema-facturacion-electronica)
+
 
 ## 👨‍🏫 Educación y Aprendizaje
 
