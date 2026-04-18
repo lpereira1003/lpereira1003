@@ -1,4 +1,4 @@
-# Luis Pereira | Software Developer
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:2962ff&height=240&section=header&text=Luis%20Pereira&desc=Software%20Developer%20|%20Pereira%20Computer%20Services&descAlignY=60&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ### **Construyendo soluciones prácticas a través del código**
 Soy Licenciado en Ciencias de la Computación con un enfoque pragmático en la resolución de problemas. Mi trayectoria es una evolución constante: desde la gestión de datos en la era de **FoxPro y Visual Studio 6.0**, pasando por la robustez de **Java (JDK 8 a 17)**, hasta la agilidad actual de la automatización e inteligencia artificial.
@@ -44,7 +44,7 @@ Asistente inteligente diseñado para resolver consultas sobre procesos de factur
 🚀 **Accede al asistente aquí:**  
 [![Probar Asistente PCS](https://img.shields.io/badge/Probar%20Asistente-1877F2?style=for-the-badge&logo=chatbot&logoColor=white)](https://chatgpt.com/g/g-6994e4e9e23881919331c68e5904951e-pcs-asistente-sistema-facturacion-electronica)
 
-
+---
 ## 👨‍🏫 Educación y Aprendizaje
 
 * **Bootcamp Fullstack en Kodigo:** Modernizando el stack hacia tecnologías web reactivas y flujos asíncronos.
