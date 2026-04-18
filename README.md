@@ -44,4 +44,12 @@ He desarrollado e implementado soluciones en sectores donde la precisión es inn
 * **Independencia Tecnológica:** Gestión de entornos propios mediante contenedores y redes dedicadas para asegurar alta disponibilidad y control total del despliegue.
 
 ---
-📫 **Contacto:** El Salvador 🇸🇻 | Software Developer & Tech Educator
+## 📫 Contacto
+
+📍 El Salvador 🇸🇻  
+📧 correo: pereira1003@gmail.com  
+
+[![Facebook](https://img.shields.io/badge/Facebook-Pereira%20Computer%20Services-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pereiracomputerservices)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contáctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/503XXXXXXXX)
+
+---
