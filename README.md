@@ -33,7 +33,7 @@ He desarrollado e implementado soluciones en sectores donde la precisión es inn
 
 He implementado soluciones basadas en IA para mejorar la interacción con clientes y optimizar procesos de atención:
 
-### 🧾 Agente IA de Facturación Electrónica
+### 🧾 Asistente IA de Facturación Electrónica
 
 Asistente inteligente diseñado para resolver consultas sobre procesos de facturación electrónica, uso del sistema y soporte técnico básico.
 
