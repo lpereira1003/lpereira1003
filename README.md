@@ -14,7 +14,7 @@ Actualmente, estoy fortaleciendo mis habilidades en el **Bootcamp de Kodigo-MINE
 | **Lenguajes** | **Java (LTS 17)**, JavaScript (en formación) |
 | **Frameworks** | Spring Boot, Thymeleaf, React (en progreso) |
 | **Bases de Datos** | PostgreSQL |
-| **Herramientas** | IntelliJ IDEA Ultimate, Apache NetBeans 25, Git |
+| **Herramientas** | IntelliJ IDEA, Apache NetBeans 25, Git |
 | **Asistencia IA** | Codex (Asistente de programación), ChatGPT (Soporte técnico y generación de soluciones) |
 
 ---
@@ -57,8 +57,8 @@ Asistente inteligente diseñado para resolver consultas sobre procesos de factur
 
 * **La verdad reside en el Backend:** Un backend sólido y bien tipado es el cimiento de cualquier solución confiable. El frontend es la experiencia, el backend es el cumplimiento.
 * **Validación Defensiva (Legado FoxPro):** Haber gestionado datos desde la era de las tablas `.dbf` me enseñó que la integridad de la información es sagrada. Mi código asume que el dato puede venir mal formado; parsear y validar es el estándar.
-* **Independencia Tecnológica:** Gestión de entornos propios mediante contenedores y redes dedicadas para asegurar alta disponibilidad y control total del despliegue.
-
+**Independencia Tecnológica:** Gestión de entornos propios y redes dedicadas, asegurando alta disponibilidad y control total del desarrollo y despliegue.
+  
 ---
 ## 📫 Contacto
 
