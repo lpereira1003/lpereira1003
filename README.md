@@ -66,6 +66,6 @@ Asistente inteligente diseñado para resolver consultas sobre procesos de factur
 📧 correo: pereira1003@gmail.com  
 
 [![Facebook](https://img.shields.io/badge/Facebook-Pereira%20Computer%20Services-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pereiracomputerservices)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contáctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/503XXXXXXXX)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contáctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50372301884)
 
 ---
