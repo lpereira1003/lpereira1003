@@ -3,7 +3,7 @@
 ### **Construyendo soluciones prácticas a través del código**
 Soy Licenciado en Ciencias de la Computación con un enfoque pragmático en la resolución de problemas. Mi trayectoria es una evolución constante: desde la gestión de datos en la era de **FoxPro y Visual Studio 6.0**, pasando por la robustez de **Java (JDK 8 a 17)**, hasta la agilidad actual de la automatización e inteligencia artificial.
 
-Actualmente, estoy fortaleciendo mis habilidades en el **Bootcamp de Kodigo-MINEDUDYT**, integrando tecnologías web modernas para complementar una base técnica forjada en el desarrollo de sistemas críticos.
+Actualmente, estoy fortaleciendo mis habilidades en el **Bootcamp de Kodigo-MINEDUDYT**, integrando tecnologías web modernas para complementar una base técnica forjada en el desarrollo de sistemas.
 
 ---
 
