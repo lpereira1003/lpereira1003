@@ -14,6 +14,7 @@ Actualmente, estoy fortaleciendo mis habilidades en el **Bootcamp de Kodigo-MINE
 | **Lenguajes** | **Java (LTS 17)**, JavaScript (en formación) |
 | **Frameworks** | Spring Boot, Thymeleaf, React (en progreso) |
 | **Bases de Datos** | PostgreSQL |
+| **APIs & Testing** | Postman (testing y validación de APIs REST) |
 | **Herramientas** | IntelliJ IDEA, Apache NetBeans 25, Git |
 | **Asistencia IA** | Codex (Asistente de programación), ChatGPT (Soporte técnico y generación de soluciones) |
 
